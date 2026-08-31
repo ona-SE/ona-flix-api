@@ -48,6 +48,9 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
   },
+  "overrides": {
+    "qs": "6.16.0"
+  },
   "nodemonConfig": {
     "watch": [
       "src"
